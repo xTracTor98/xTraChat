@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "671586128998",
+    "firebase_url": "https://xtrachat-2b0aa.firebaseio.com",
+    "project_id": "xtrachat-2b0aa",
+    "storage_bucket": "xtrachat-2b0aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671586128998:android:f454777b6eb25915b909a7",
+        "android_client_info": {
+          "package_name": "com.xtrachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671586128998-2pd6kj5289btoc9230rq7ji2agt4nq4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdXcOCZ7OcU4PmE-ohHlbO4Pmmqi_Sp7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671586128998-2pd6kj5289btoc9230rq7ji2agt4nq4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671586128998:android:43f7ed091ad521e9b909a7",
+        "android_client_info": {
+          "package_name": "xtractor.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671586128998-2pd6kj5289btoc9230rq7ji2agt4nq4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdXcOCZ7OcU4PmE-ohHlbO4Pmmqi_Sp7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671586128998-2pd6kj5289btoc9230rq7ji2agt4nq4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
